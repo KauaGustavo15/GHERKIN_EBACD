@@ -34,4 +34,4 @@
 
             | nome | sobrenome | pais | endereco | cidade    | cep | telefone | email                   | mensagem                       |
             | Kauã | Gustavo   | BR   | Flores   | Cerquilho | 444 | 898      | kaua@gustavoEBAC.com.br | finalizado com sucesso         |
-            | Kauã | Gustavo   | BR   | Flore    | Cerquilho | 444 | 898      | kaua@gustavo.com.br     | não finalizado/email incorreto |
+            | Kauã | Gustavo   | BR   | Flore    | Cerquilho | 444 | 898      | kaua@gustavo.com.br     | email incorreto                |
